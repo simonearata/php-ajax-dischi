@@ -32,7 +32,7 @@
             <h3><?php echo $disc['title']?></h3>
             <p><?php echo $disc['author']?></p>
             <p><?php echo $disc['year']?></p>
-            </div>
+          </div>
         </div>
       <?php }?>
     </div>
