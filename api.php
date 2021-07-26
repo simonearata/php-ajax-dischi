@@ -13,7 +13,7 @@ foreach($database as $album){
 
 }
 
-
+// aggiungo l'elemento col genere corrispondete solo se l'array $albums è vuoto
 if(count($albums) === 0){
 
   foreach($database as $album){
